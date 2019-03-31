@@ -20,13 +20,13 @@ As you probably guessed by their name, [conditionals](https://wow.gamepedia.com/
 In this section we'll explore a few: ```@target```, ```@focus```, ```@mouseover```, ```@player```, ```exists```, and ```noexists```.
 
 
-Using ```@target``` causes you to target your regular target.
+* Using ```@target``` causes you to target your regular target.
 
-Using ```@focus``` causes you to target your focus.
+* Using ```@focus``` causes you to target your focus.
 
-Using ```@mouseover``` causes you to target the moused over object.
+* Using ```@mouseover``` causes you to target the moused over object.
 
-Using ```@player``` will target yourself.
+* Using ```@player``` will target yourself.
 
 
 When using the first three of these, always additionally use ```exists```. Otherwise, the macro may run into an exception and not finish.
