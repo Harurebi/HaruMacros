@@ -3,7 +3,7 @@ This guide is meant to help users create simple macros. It doesn't require any u
 ### The Basics
 You'll always want to start a macro with ```#showtooltip```. This controls the tooltop that appear for the spell, and you may specify a spell (e.g. ```#showtooltip Polymorph```). By default, without specifying, it will try to determine which spell to display.
 
-In order to use a spell you must write the ```/use``` function, followed by the name of the spell. This works with items as well, like:
+In order to use a spell you must write the ```/use``` [command](https://wow.gamepedia.com/g00/3_c-7x78px78.hbnfqfejb.dpn_/c-7NPSFQIFVT0x24iuuqtx3ax2fx2fx78px78.hbnfqfejb.dpnx2fNbdsp_dpnnboet_$/$?i10c.ua=1&i10c.dv=11), followed by the name of the spell. This works with items as well, like:
 ```/use Polymorph``` or ```/use Hearthstone```!
 
 The complete macro for using a polymorph might be, then:
