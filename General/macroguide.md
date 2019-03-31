@@ -57,6 +57,7 @@ The above macro would cycle through if you have a valid mouseover target, a norm
 ### Syntax
 At this point, it's probably important to mention the syntax of a macro. That being, the structure of how the code itself is written. In general, there are some rules to consider:
 * Names of spells, items, abilities, and so on are case sensitive
+* Whitespace doesn't matter, only the code. You can sort your commands statements on any combination of lines as you like.
 * Conditionals are surrounded by ```[ ]``` always, and multiple conditionals are separated with a comma.
 * Multiple 'outcomes' of a conditional are separated by a semicolon ```;```. 
 
