@@ -45,7 +45,7 @@ Now that I've stuffed your face with code-lingo, here's some examples:
 #showtooltip
 /use [@mouseover, exists] Rejuvenation; [@target, exists] Rejuvenation; [@player] Rejuvenation;
 ```
-This first check for a mouseover target, and then cast Rejuvenation on them. If you have no mouseover, then you're target. If you have no target, then yourself. This can be turned into a 'quick key' macro rather easily:
+This first checks for a mouseover target, and then casts Rejuvenation on them. If you have no mouseover, then it will cast on your  target. If you have no target, then yourself. This can be turned into a 'quick key' macro rather easily:
 ```
 #showtooltip
 /use [mod:shift, @mouseover, exists] Sunfire; [@mouseover, exists] Rejuvenation; 
