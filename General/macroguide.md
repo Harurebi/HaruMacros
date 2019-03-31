@@ -65,5 +65,7 @@ All of these rules are visible in the above examples!
 
 ### Additional Resources
 [Conditionals](https://wow.gamepedia.com/Macro_conditionals)
+
 [Commands](https://wow.gamepedia.com/g00/3_c-7x78px78.hbnfqfejb.dpn_/c-7NPSFQIFVT0x24iuuqtx3ax2fx2fx78px78.hbnfqfejb.dpnx2fNbdsp_dpnnboet_$/$?i10c.ua=1&i10c.dv=11)
+
 [Making a Macro](https://wow.gamepedia.com/Making_a_macro)
