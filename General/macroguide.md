@@ -32,9 +32,9 @@ There are two other key modifiers that may be used; alt and ctrl. For example:
 I would never commend someone to ever do this to themselves, but it's possible if desired. As you can likely tell from above, using shift will cast Solar Wrath, using ctrl will cast Sunfire, alt will cast Moonfire, and otherwise Regrowth. Personally, I find it much more manageable to keep a simple shift/no shift setup for my macros.
 
 ### Conditionals
-[Conditionals](https://wow.gamepedia.com/Macro_conditionals) simply are modifiers that change the way a macro function operates. These are always enclosed within ```[ ]```. The above section on quick keys touched on a conditional, ```mod```.
+[Conditionals](https://wow.gamepedia.com/Macro_conditionals) are simply modifiers that change the way a macro function operates. These are always enclosed within ```[ ]```. The above section on quick keys touched on a conditional, ```mod```.
 
-This guide only touches on basic macros, thus here we'll discuss a few conidiotnals: ```@target```, ```@focus```, ```@mouseover```, ```@player```, ```exists```, and ```noexists```.
+This guide only touches on basic macros, thus here we'll discuss only a few: ```@target```, ```@focus```, ```@mouseover```, ```@player```, ```exists```, and ```noexists```.
 
 Using ```@target``` as a conditional will cause you to use the spell on your target. ```@focus``` is the same for your focus, and ```@mouseover``` for the target you're hovering your mouse over. ```@player``` designates the spell to be targeted on yourself.
 
