@@ -2,7 +2,5 @@
 
 #showtooltip
 /castsequence [talent:2/2] reset=10/shift, Shimmer, Displacement
-
 /stopmacro [talent:2/2]
-
 /castsequence reset=10/shift, Blink, Displacement
