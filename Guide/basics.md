@@ -20,11 +20,4 @@ At this point, it's probably important to mention the syntax of a macro. That be
 
 All of these rules will be clearly visible throughout this guide. If you don't have any coding experience, you'll probably find that they'll naturally be followed as you write macros!
 
-### [Part Two: Conditionals](https://github.com/Harurebi/HaruMacros/blob/master/Guide/conditionals.md)
-
-### Additional Resources
-[Conditionals](https://wow.gamepedia.com/Macro_conditionals)
-
-[Commands](https://wow.gamepedia.com/g00/3_c-7x78px78.hbnfqfejb.dpn_/c-7NPSFQIFVT0x24iuuqtx3ax2fx2fx78px78.hbnfqfejb.dpnx2fNbdsp_dpnnboet_$/$?i10c.ua=1&i10c.dv=11)
-
-[Making a Macro](https://wow.gamepedia.com/Making_a_macro)
+Next: [Part Two: Conditionals](https://github.com/Harurebi/HaruMacros/blob/master/Guide/conditionals.md)
