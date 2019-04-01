@@ -1,7 +1,7 @@
 [Classes](https://github.com/Harurebi/HaruMacros/tree/master/Classes) -> [Mage](https://github.com/Harurebi/HaruMacros/tree/master/Classes/Mage) 
 -> [Frost](https://github.com/Harurebi/HaruMacros/tree/master/Classes/Mage/Frost) -> Blizzard
 
-**Cursor-Blizzard**
+**Cursor Target Blizzard**
 
 This macro will cast blizzard at your cursor, saving the targeting click.
 ```
