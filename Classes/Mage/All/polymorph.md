@@ -1,3 +1,4 @@
+[General](https://github.com/Harurebi/HaruMacros/tree/master/General) ->
 [Classes](https://github.com/Harurebi/HaruMacros/tree/master/Classes) -> [Mage](https://github.com/Harurebi/HaruMacros/tree/master/Classes/Mage) 
 -> [All](https://github.com/Harurebi/HaruMacros/tree/master/Classes/Mage/All) -> Polymorph
 
