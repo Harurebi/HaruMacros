@@ -1,7 +1,7 @@
 [Classes](https://github.com/Harurebi/HaruMacros/tree/master/Classes) -> [Mage](https://github.com/Harurebi/HaruMacros/tree/master/Classes/Mage) 
 -> [All](https://github.com/Harurebi/HaruMacros/tree/master/Classes/Mage/All) -> Polymorph
 
-**Advannced Polymorph**
+**Advanced Polymorph**
 
 This causes your focus to be polymorphed - if no focus exists, then target. 
 Additionally, this macro will announce the target being polymorphed. Once polymorphed, your target will switch automatically to the next
@@ -15,7 +15,7 @@ enemy to avoid breaking the polymorph.
 /targetenemy
 ```
 
-**Advannced Mouseover Polymorph**
+**Advanced Mouseover Polymorph**
 
 This causes your focus to be polymorphed - if no focus exists, then mouseover. If no mouseover, then target. 
 Additionally, this macro will announce the target being polymorphed. Once polymorphed, your target will switch automatically to the next
@@ -29,7 +29,7 @@ enemy to avoid breaking the polymorph.
 /targetenemy
 ```
 
-**Advannced Mouseover Polymorph Quick Key**
+**Advanced Mouseover Polymorph Quick Key**
 
 This causes your focus to be polymorphed - if no focus exists, then mouseover. If no mouseover, then target. 
 Additionally, this macro will announce the target being polymorphed. Once polymorphed, your target will switch automatically to the next
