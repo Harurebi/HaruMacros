@@ -14,7 +14,7 @@ enemy to avoid breaking the polymorph.
 /targetlastenemy
 /targetenemy
 ```
-
+------
 **Advanced Mouseover Polymorph**
 
 This causes your focus to be polymorphed - if no focus exists, then mouseover. If no mouseover, then target. 
@@ -28,7 +28,7 @@ enemy to avoid breaking the polymorph.
 /targetlastenemy
 /targetenemy
 ```
-
+------
 **Advanced Mouseover Polymorph Quick Key**
 
 This causes your focus to be polymorphed - if no focus exists, then mouseover. If no mouseover, then target. 
