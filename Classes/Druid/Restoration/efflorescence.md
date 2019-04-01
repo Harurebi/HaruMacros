@@ -10,7 +10,7 @@ This will cast Efflorescence at your cursor, saving you the targeting click.
 /use [@cursor] Efflorescence;
 ```
 
-*Quick Key Efflorescence**
+**Quick Key Efflorescence**
 This will cast Efflorescence at your cursor, saving you the targeting click. Using shift will cause you to cast Wild Growth instead, 
 which first targets your mouseover, target, and otherwise yourself.
 ```
