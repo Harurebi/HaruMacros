@@ -16,6 +16,7 @@ Use shift to use your Dalaran Hearthstone, ctrl for Flight Master's Whistle, alt
 
 This works as the above macro, but instead uses Astral Recall if you click the macro with your right mouse key.
 ```
+#showtooltip
 /use [mod:shift]Dalaran Hearthstone; [mod:ctrl] Flight Master's Whistle;[mod:alt] Garrison Hearthstone; [btn:2] Astral Recall; Hearthstone
 ```
 ------
@@ -23,5 +24,6 @@ This works as the above macro, but instead uses Astral Recall if you click the m
 
 This works as the above macro, but instead uses Dreamwalk if you click the macro with your right mouse key. Using the 'middle' mouse key (scroll button) will use Teleport: Moonglade.
 ```
+#showtooltip
 /use [mod:shift]Dalaran Hearthstone; [mod:ctrl] Flight Master's Whistle;[mod:alt] Garrison Hearthstone; [btn:2] Dreamwalk; [btn:3] Teleport: Moonglade; Hearthstone
 ```
