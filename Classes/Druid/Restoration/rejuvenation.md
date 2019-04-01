@@ -6,7 +6,7 @@
 This macro will first target your mouseover target, then regular target, and otherwise yourself with Rejuvenation.
 ```
 #showtooltip
-/use [@mouseover, exists, help] Rejuvenation; [@target, exists, help] Rejuvenation; [@player] Rejuvenation;
+/use [@mouseover, exists] Rejuvenation; [@target, exists] Rejuvenation; [@player] Rejuvenation;
 ```
 --------
 **Recommended Quick Key Lite**
