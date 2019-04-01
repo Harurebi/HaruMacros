@@ -44,3 +44,6 @@ This first checks for a mouseover target, and then casts Rejuvenation on them. I
 [@player] Rejuvenation;
 ```
 The above macro would cycle through if you have a valid mouseover target, a normal target, or neither. Using shift, it'll Sunfire the target, with exception to yourself.
+
+
+Previous: [Part One: The Basics](https://github.com/Harurebi/HaruMacros/blob/master/Guide/basics.md)
