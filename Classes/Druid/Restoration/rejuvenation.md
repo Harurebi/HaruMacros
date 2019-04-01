@@ -15,6 +15,8 @@ This macro will first target your mouseover target, then regular target, and oth
 This macro will first target your mouseover target, then regular target, and otherwise yourself.
 If the target is an ally, it casts Rejuvenation on them. If an enemy, it casts Sunfire.
 ```
+#showtooltip
+/use
 [@mouseover, exists, harm] Sunfire; 
 [@mouseover, exists] Rejuvenation;
 [@target, exists, harm] Sunfire;
