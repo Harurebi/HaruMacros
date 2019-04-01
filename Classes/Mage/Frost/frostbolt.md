@@ -14,6 +14,7 @@ Additionally, will summon your water elemental for you if it's dead or not out.
 /use [@target] Frostbolt;
 
 /stopmacro [talent:1/2];
+/s [nopet, target=pet, dead]To the battlefield, Blueberry!
 /cast [nopet, target=pet, dead] Summon Water Elemental;
 /petattack [@target];
 ```
@@ -31,6 +32,7 @@ Additionally, will summon your water elemental for you if it's dead or not out.
 /use [@target, mod:shift] Flurry; [@target] Frostbolt;
 
 /stopmacro [talent:1/2];
+/s [nopet, target=pet, dead]To the battlefield, Blueberry!
 /cast [nopet, target=pet, dead] Summon Water Elemental;
 /petattack [@target];
 ```
