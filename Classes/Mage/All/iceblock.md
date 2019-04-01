@@ -8,6 +8,6 @@ This macro will immediately use Ice block by interrupting any current casting. U
 ```
 #showtooltip
 /stopcasting
-/cast Ice Block
 /cancelaura Ice Block
+/cast Ice Block
 ```
