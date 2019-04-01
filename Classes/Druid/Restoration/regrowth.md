@@ -25,7 +25,7 @@ This has the same functionality as above, but will additionally cast Solar Wrath
 #showtooltip
 /use 
 [@mouseover, exists, help, dead, nocombat] Revive; 
-[@mouseover, exists, help, dead, combat] Revive; 
+[@mouseover, exists, help, dead, combat] Rebirth; 
 [@mouseover, exists, help] Regrowth; 
 [@mouseover, exists, harm] Solar Wrath; 
 [@target, exists, dead, help, nocombat] Revive;
