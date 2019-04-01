@@ -1,4 +1,5 @@
-[Classes](https://github.com/Harurebi/HaruMacros/tree/master/Classes) -> [Mage](https://github.com/Harurebi/HaruMacros/tree/master/Classes/Mage) -> Blizzard
+[Classes](https://github.com/Harurebi/HaruMacros/tree/master/Classes) -> [Mage](https://github.com/Harurebi/HaruMacros/tree/master/Classes/Mage) 
+-> [Frost](https://github.com/Harurebi/HaruMacros/tree/master/Classes/Mage/Frost) -> Blizzard
 
 **Cursor-Blizzard**
 
